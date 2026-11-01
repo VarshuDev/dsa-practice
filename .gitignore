@@ -1,0 +1,12 @@
+# Compiled executables & intermediate build files
+*.exe
+*.obj
+*.o
+*.pdb
+build/
+
+# Local test outputs (optional, remove # if you want to keep them local)
+ output.txt
+output.txtset
+input.txtset
+input.txt

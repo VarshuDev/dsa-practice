@@ -27,7 +27,7 @@ Collection of pattern problems from the Striver A2Z DSA sheet to master nested l
 - [x] **Pattern 10**: [Half Diamond Star Pattern](./10-Half-Diamond-Star-Pattern.cpp)
 - [x] **Pattern 11**: [Binary Number Triangle](./11-Binary-Number-Triangle.cpp)
 - [x] **Pattern 12**: [Number Crown Pattern](./12-Number-Crown-Pattern.cpp)
-- [ ] **Pattern 13**: [Increasing Number Triangle](./13-Increasing-Number-Triangle.cpp)
+- [x] **Pattern 13**: [Increasing Number Triangle](./13-Increasing-Number-Triangle.cpp)
 - [ ] **Pattern 14**: [Increasing Letter Triangle](./14-Increasing-Letter-Triangle.cpp)
 - [ ] **Pattern 15**: [Reverse Letter Triangle](./15-Reverse-Letter-Triangle.cpp)
 - [ ] **Pattern 16**: [Alpha-Ramp Pattern](./16-Alpha-Ramp-Pattern.cpp)

@@ -4,7 +4,6 @@
 *.o
 *.pdb
 build/
-*.cpp
 
 # Local test outputs (optional, remove # if you want to keep them local)
 output.txt

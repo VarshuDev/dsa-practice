@@ -24,7 +24,7 @@ dsa-practice/
 
 | Step | Topic | Status | Solved | Notes & Directory |
 |:----:|-------|:------:|:------:|-------------------|
-| 01 | **Learn the Basics** | 🟡 In Progress | 12 | [Step-01-Learn-the-Basics](./Step-01-Learn-the-Basics/) |
+| 01 | **Learn the Basics** | 🟡 In Progress | 13 | [Step-01-Learn-the-Basics](./Step-01-Learn-the-Basics/) |
 | 02 | **Sorting Techniques** | ⚪ Pending | 0 | [Step-02-Sorting-Techniques](./Step-02-Sorting-Techniques/) |
 | 03 | **Solve Problems on Arrays** | ⚪ Pending | 0 | [Step-03-Solve-Problems-on-Arrays](./Step-03-Solve-Problems-on-Arrays/) |
 | 04 | **Binary Search** | ⚪ Pending | 0 | - |
